@@ -1,0 +1,5 @@
+﻿Window,Observed Delta RMSE,Null median,Null 97.5 percentile,One-sided p,Interpretation
+Monsoon June-August 0-3 yr,0.004179,-0.000005,0.001015,0.001,Supported
+Annual January-December 0-3 yr,0.003637,0.000013,0.000765,0.001,Supported
+Warm season May-September 0-3 yr,0.003585,0.000009,0.000757,0.001,Supported
+Cold season October-April 0-3 yr,-0.000528,-0.000061,0.000411,0.990,Not supported

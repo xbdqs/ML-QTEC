@@ -1,0 +1,9 @@
+﻿Seasonal definition,Delta RMSE,Bootstrap 95% interval,Null 97.5 percentile,One-sided p,Interpretation
+Warm/extended monsoon June-September,0.004208,0.002417-0.006086,0.000598,0.001,Supported
+Monsoon June-August,0.004179,0.001617-0.006764,0.000754,0.001,Supported
+Annual January-December,0.003637,0.002066-0.005434,0.000452,0.001,Supported
+Warm season May-September,0.003585,0.001932-0.005509,0.000519,0.001,Supported
+Warm season May-October,0.003253,0.001789-0.004876,0.000483,0.001,Supported
+Cold season October-April,-0.000528,-0.001377-0.000328,0.000315,0.979,Not supported
+Cold season November-March,-0.000940,-0.002541-0.000689,0.000500,0.996,Not supported
+Cold season October-May,-0.001067,-0.001847–0.000388,0.000381,1.000,Not supported

@@ -1,0 +1,9 @@
+﻿Scheme,Window,Held groups,Positive held groups (%),Min Delta RMSE,Median Delta RMSE,Max Delta RMSE
+North-south holdout,Annual 0-3 yr,2,0,-0.001443,-0.001129,-0.000814
+North-south holdout,Warm May-September 0-3 yr,2,0,-0.001867,-0.001534,-0.001201
+North-south holdout,Monsoon June-August 0-3 yr,2,0,-0.003790,-0.002570,-0.001350
+North-south holdout,Cold October-April 0-3 yr,2,50,-0.010370,-0.005158,0.000053
+Five latitudinal blocks,Annual 0-3 yr,5,40,-0.000772,-0.000329,0.001132
+Five latitudinal blocks,Warm May-September 0-3 yr,5,40,-0.001129,-0.000472,0.000262
+Five latitudinal blocks,Monsoon June-August 0-3 yr,5,0,-0.000643,-0.000471,-0.000208
+Five latitudinal blocks,Cold October-April 0-3 yr,5,40,-0.021094,-0.000054,0.000407
